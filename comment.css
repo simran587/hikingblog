@@ -1,0 +1,31 @@
+.container {
+    max-width: 100%;
+    margin: 3px;
+    padding: 3rem 0 3rem 0;
+    background-color: linen;
+    text-align: center;
+    }
+
+header {
+    background-color: linen;
+    width:100%; 
+    text-align: center;
+    justify-content: center;
+   
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+nav li {
+    display: inline-block;
+}
+nav a {
+    text-decoration: none;
+    color: #73352E;
+    display: block;
+    padding: 0.5rem 1rem;
+}
